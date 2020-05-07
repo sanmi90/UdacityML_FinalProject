@@ -1,14 +1,14 @@
 # UdacityML_FinalProject
 
-Capstone Project - Machine Learning Engineer Nanodegree
+Capstone Project - Machine Learning Engineer Nanodegree <br/>
 Carlos Sanmiguel Vila
 
 07-05-2020
 
-Python 3.6.0 has been used for the entire project.
-Libraries and requirements are the following:
+Python 3.6.0 has been used for the entire project. <br/>
+Libraries and requirements are the following: 
 
-Library	Version
+Library	Version <br/>
 Pandas version: 1.0.3 <br/>
 Numpy version: 1.18.4 <br/>
 Sklearn version: 0.22.1 <br/>
