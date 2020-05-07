@@ -1,7 +1,7 @@
-# UdacityML_FinalProject
+# Capstone Project - Machine Learning Engineer Nanodegree 
 
-Capstone Project - Machine Learning Engineer Nanodegree <br/>
-Carlos Sanmiguel Vila
+
+## Carlos Sanmiguel Vila
 
 07-05-2020
 
