@@ -9,8 +9,8 @@ Python 3.6.0 has been used for the entire project.
 Libraries and requirements are the following:
 
 Library	Version
-Pandas version: 1.0.3
-Numpy version: 1.18.4
-Sklearn version: 0.22.1
-Catboost version: 0.23
+Pandas version: 1.0.3 <br/>
+Numpy version: 1.18.4 <br/>
+Sklearn version: 0.22.1 <br/>
+Catboost version: 0.23 <br/>
 Matplotlib version: 3.2.0
