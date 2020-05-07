@@ -8,7 +8,6 @@
 Python 3.6.0 has been used for the entire project. <br/>
 Libraries and requirements are the following: 
 
-Library	Version <br/>
 Pandas version: 1.0.3 <br/>
 Numpy version: 1.18.4 <br/>
 Sklearn version: 0.22.1 <br/>
