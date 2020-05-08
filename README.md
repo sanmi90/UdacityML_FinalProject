@@ -12,4 +12,5 @@ Pandas version: 1.0.3 <br/>
 Numpy version: 1.18.4 <br/>
 Sklearn version: 0.22.1 <br/>
 Catboost version: 0.23 <br/>
-Matplotlib version: 3.2.0
+Matplotlib version: 3.2.0 <br/>
+Shap version:	0.35.0
